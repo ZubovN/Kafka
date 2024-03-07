@@ -1,0 +1,17 @@
+{
+    "idSave": 12970,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "money": 1,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "credit_count": 623,
+    "credit_per_second": 4,
+    "credit_count_total": 623,
+    "savedVolume": 0.0
+}
